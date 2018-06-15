@@ -1,0 +1,41 @@
+html,body{
+    height: auto
+}
+
+input {
+  text-align:center;
+  border-radius:100px;
+  margin-bottom:30px;
+}
+
+.btn.btn-info {
+  border-radius:100px;
+}
+
+label {
+  color:white;
+}
+
+div {
+  text-align:center;
+}
+
+.navbar-brand {
+  font-family:'Titan One', cursive;
+  font-size: 30px
+}
+
+.card{
+    border-radius: 0px;
+    border-bottom-style: solid;
+}
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+
+#about_us_modal{
+    background: white;
+    color: #414141
+}

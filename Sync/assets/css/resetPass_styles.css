@@ -1,0 +1,30 @@
+input {
+  text-align:center;
+  border-radius:100px;
+  width:300px;
+  height:35px;
+  margin-bottom:30px;
+}
+
+.btn.btn-info {
+  border-radius:100px;
+}
+
+.navbar-brand {
+  font-family:'Titan One', cursive;
+  font-size: 30px
+}
+
+label {
+  color:white;
+}
+
+div {
+  text-align:center;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  width:100%;
+}

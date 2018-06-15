@@ -1,0 +1,69 @@
+footer {
+  position:absolute;
+  bottom:0;
+  height:30px;
+  width:100%;
+  justify-content:center;
+  text-align:center;
+}
+
+
+small {
+  text-align:center;
+  color:white;
+}
+
+p {
+  font-weight:bolder;
+}
+
+.row {
+  margin-top:20px;
+}
+
+.navbar-brand {
+  font-family:'Titan One', cursive;
+  font-size: 30px
+}
+
+h1 {
+  text-align:center;
+  font-family:'Titan One', cursive;
+}
+
+.icon-globe-alt {
+  text-align:center;
+}
+
+div {
+  text-align:center;
+}
+
+label {
+  font-weight:bolder;
+}
+
+.lead {
+  border-bottom:whitesmoke;
+  border-bottom-style:solid;
+  border-bottom-width:thin;
+  margin-bottom:40px;
+}
+
+.btn.btn-info {
+  border-radius:20px;
+}
+
+input {
+  -webkit-border-radius:20px;
+  -moz-border-radius:20px;
+  border-radius:20px;
+  text-align:center;
+}
+
+.card {
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+

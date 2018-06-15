@@ -1,0 +1,55 @@
+div {
+  text-align:center;
+}
+
+.col-md-3 {
+  padding-top:150px;
+}
+
+.icon-user-follow {
+  border-radius:100px;
+  color:rgb(0,0,0);
+  border:2px solid #ffffff;
+  padding:30px;
+  width:2em;
+  height:2em;
+}
+
+@media (max-width: 767px){
+    .col-6 col-md-6{
+        text-align: center;
+    }
+    .form-group{
+        text-align: center;
+    }
+    .label{
+        text-align: center
+    }
+}
+
+.navbar-brand {
+  font-family:'Titan One', cursive;
+  font-size: 30px
+}
+
+.btn.btn-info {
+  border-radius:100px;
+}
+
+input {
+  text-align:center;
+  width:300px;
+  height:35px;
+  border-radius:100px;
+  margin-bottom:20px;
+}
+
+.card {
+  position:absolute;
+  bottom:0;
+  width:100%;
+}
+
+label {
+  color:white;
+}
